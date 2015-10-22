@@ -1,4 +1,4 @@
-# react-redux-koa-start
+# react-redux-koa-starter
 
 ## Installation:
 
